@@ -6,7 +6,7 @@ Founder of [Primer](https://primerdaily.com/) · AI Engineering & Neuroscience @
 
 I build and ship production software. Primer is a cross-platform mobile app I designed, engineered, and launched entirely solo — live on the App Store and Google Play with real, paying subscribers.
 
-My background spans full-stack web, mobile (iOS & Android), and AI-powered products. I'm comfortable owning a project from database design to App Store submission.
+My background spans full-stack web, mobile (iOS & Android), and AI-powered products. I'm comfortable owning a project from database design to launching it.
 
 ## Primer
 
